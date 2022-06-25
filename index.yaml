@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-ipc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-25T11:24:46.4849395+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 33024e87cce7e7ea10d49e813a31753f677efbb750f84af98459a2dcd62117d1
+    name: helm-ipc
+    type: application
+    urls:
+    - https://ganesh-idm.github.io/helm/helm-ipc-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-25T11:24:46.4849395+05:30"
